@@ -121,7 +121,7 @@ echo "Aku hanya sudah tahu bagaimana semuanya bisa dibobol."
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=beebane&bg_color=0d0208&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&title_color=00ff41" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Beebane25&bg_color=0d0208&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&title_color=00ff41" width="100%" />
 
 </div>
 
