@@ -127,20 +127,6 @@ echo "Aku hanya sudah tahu bagaimana semuanya bisa dibobol."
 
 ---
 
-## 🏆 Hall of Cursed Projects
-
-```text
- ┌─────────────────────────────────────────────────────────┐
- │  📁 nama-project-1  →  Deskripsi singkat tool/project   │
- │  📁 nama-project-2  →  Write-up CTF / lab pentest       │
- │  📁 nama-project-3  →  Script otomasi recon             │
- └─────────────────────────────────────────────────────────┘
-```
-
-> ✏️ *Ganti isi kotak di atas dengan repository andalanmu, atau pin repo terbaik di profilmu.*
-
----
-
 ## 🕯️ Ritual Penebusan Dosa (Prinsip Hidup)
 
 ```diff
