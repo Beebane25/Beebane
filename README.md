@@ -108,25 +108,6 @@ echo "Aku hanya sudah tahu bagaimana semuanya bisa dibobol."
 
 ---
 
-## 📊 Statistik Korban Kutukan
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=beebane&show_icons=true&hide_border=false&bg_color=0d0208&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff41&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beebane&layout=compact&hide_border=false&bg_color=0d0208&title_color=00ff41&text_color=c9d1d9&border_color=00ff41" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=beebane&hide_border=false&background=0d0208&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=8b949e&stroke=00ff41&border=00ff41" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Beebane25&bg_color=0d0208&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&title_color=00ff41" width="100%" />
-
-</div>
-
----
-
 ## 🕯️ Ritual Penebusan Dosa (Prinsip Hidup)
 
 ```diff
