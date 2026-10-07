@@ -157,9 +157,8 @@ echo "Aku hanya sudah tahu bagaimana semuanya bisa dibobol."
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-beebane-181717?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d0208)](https://github.com/beebane)
-[![Email](https://img.shields.io/badge/Email-Kirim_Pesan-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0208)](mailto:email-kamu@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0208)](https://linkedin.com/in/username-kamu)
+[![GitHub](https://img.shields.io/badge/GitHub-beebane-181717?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=0d0208)](https://github.com/Beebane25)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0208)](www.linkedin.com/in/zulfajri-surya-767664215)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d0208)](https://tryhackme.com/p/username-kamu)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=0d0208)](https://app.hackthebox.com/profile/id-kamu)
 
